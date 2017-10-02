@@ -13,5 +13,4 @@ else
 {
 printf("entered character is consotant");
 }
-getch;
 }
