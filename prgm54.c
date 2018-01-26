@@ -4,7 +4,7 @@ void main()
 	int i,sum=0,n;
 	printf("enter the numer:\n");
 	scanf("%d",&n);
-	if(n%2==0)
+	if(n%2==1)
 	{
 		n=n+1;
 	}
